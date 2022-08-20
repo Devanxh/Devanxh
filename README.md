@@ -1,4 +1,11 @@
 ### Hi there 👋
+### I'm Devansh Bhardwaj
+
+
+* :mortar_board: Bachelors in Technology, SRM University
+* :computer: Full Stack Developer
+* :mailbox: reach me out at ---> devanshbhardwaj999@gmail.com
+
 
 <!--
 **Devanxh/Devanxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
